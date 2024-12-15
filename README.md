@@ -29,6 +29,7 @@ For mandatory functions:
 To delete all files generated with make, go to the path and run:
 
 <pre>
+    ```bash
 $ make fclean
 </pre>
 
