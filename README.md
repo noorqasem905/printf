@@ -38,8 +38,9 @@ $ make fclean
 ### MakeFile
 <pre>
 $ make
+$ mkdir main.c
 </pre>
-    
+### Add Your Code
 <pre>
 #include "ft_printf.h"
 
@@ -48,6 +49,11 @@ int main()
     ft_printf("Hello World!\n");
     ft_printf("School %i", 42);
 }
+### Compile it
+<pre>
+  $ cc main.c libftprintf.a
+</pre>
+
 </pre>
 
 This function have been tested with Francinette.
