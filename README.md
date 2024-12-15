@@ -13,6 +13,16 @@ This project consists in duplicate the behavior of the C function printf(). It i
     hexadecimal int type variables (uppercase and lowercase).
     pointer type variables.
 
+## Test it
+<pre>
+int main()
+{
+    ft_printf("Hello World!\n");
+    ft_printf("School %i", 42);
+}
+</pre>
+
+
 The functions are written in C language and need the gcc compiler, with <stdlib.h>, <stdarg.h> and <unistd.h> standard libraries to run.
 Instructions
 1. Compiling the archives
