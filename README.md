@@ -1,6 +1,6 @@
 # ft_printf 
 
-This repository contains all files for the printf project from School 42 Málaga cursus. The project consist in duplicate the printf() function, part of the stdio.h library.
+This repository contains all files for the printf project from School 42 Amman. The project consist in duplicate the printf() function, part of the stdio.h library.
 About · Index · Requirements · Instructions · Testing
 About
 
