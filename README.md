@@ -35,6 +35,11 @@ $ make fclean
 3. Using it in your code
 
 ## Test it
+### MakeFile
+<pre>
+$ make
+</pre>
+    
 <pre>
 #include "ft_printf.h"
 
