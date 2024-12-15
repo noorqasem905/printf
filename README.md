@@ -27,9 +27,9 @@ For mandatory functions:
 2. Cleaning all binary (.o) and executable files (.a)
 
 To delete all files generated with make, go to the path and run:
+    ```bash
 
 <pre>
-    ```bash
 $ make fclean
 </pre>
 
